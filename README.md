@@ -1,3 +1,5 @@
+
+
 # Quantumult-X-Scripts
 
 ![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=zion101&show_icons=true&theme=algolia)
@@ -8,12 +10,13 @@
 * 自用
 
 ### Quantumult X 懒人配置文件：
-* [Quantumult X AIO by Zion.conf](https://raw.githubusercontent.com/zion101/Quantumult-X-Scripts/main/Quantumult%20X%20AIO%20by%20Zion.conf)
+* [Quantumult X AIO by Zion.conf](https://raw.githubusercontent.com/zayn-0101/Quantumult-X-Scripts/main/Quantumult%20X%20AIO%20by%20Zion.conf)
 
 ### Quantumult X 远程配置：
-* [JS.conf](https://raw.githubusercontent.com/zion101/Quantumult-X-Scripts/main/JS.conf)  脚本远程订阅
-* [JS_get_cookies.conf](https://raw.githubusercontent.com/zion101/Quantumult-X-Scripts/main/JS_get_cookies.conf)  获取Cookie的脚本的远程订阅，仅在Cookie获取或失效时启用，不需要时右滑动禁用，以免产生过多的 MitM 主机名
-* [Task_local_Zion.conf](https://raw.githubusercontent.com/zion101/Quantumult-X-Scripts/main/Task_local_Zion.conf)  定时任务远程配置，QuanX 目前无法订阅，可根据个人需求复制内容及修改时间
+* [JS.conf](https://raw.githubusercontent.com/zayn-0101/Quantumult-X-Scripts/main/JS.conf)  脚本远程订阅
+* [JS_get_cookies.conf](https://raw.githubusercontent.com/zayn-0101/Quantumult-X-Scripts/main/JS_get_cookies.conf)  获取Cookie的脚本的远程订阅，仅在Cookie获取或失效时启用，不需要时右滑动禁用，以免产生过多的 MitM 主机名
+* [Task_local_Zion.conf](https://raw.githubusercontent.com/zayn-0101/Quantumult-X-Scripts/main/Task_local_Zion.conf)  定时任务远程配置，QuanX 目前无法订阅，可根据个人需求复制内容及修改时间
+* [互助码汇总](https://raw.githubusercontent.com/zayn-0101/Quantumult-X-Scripts/main/%E4%BA%92%E5%8A%A9%E7%A0%81.md)  部分京东小程序互助码提交与查询API
 
 ## 免责声明：
 
